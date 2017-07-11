@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <div class = "border">
+            <a href="Project">Projects</a>
+            <a href="contact">Contacts</a>
+
+        </div>
+        <h1>Hello ASP.NET Mvc!</h1>
+
+
+        <div class="border">Today's time and date</div>
+        <div>
+        <p>@ViewBag.rndWord</p>
+        <p>#@ViewBag.count</p>
+        </div>
+
+                    @{
+            DateTime CurrentTime = DateTime.Now;
+        } 
+        <div class="border">
+            @CurrentTime.ToString("MMM dd, yyyy")
+            <br>@CurrentTime.ToString("hh:mm tt")
+        </div>
+        <img src="~/images/will.jpg" alt="some_text">
+        <p>About Me</p>
+        <p>Hello, My name is Willie Nelson.  I live in Austin Texas and I am a huge fan of country music. Please check out my new projects I am working on.</p>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/callingcard/bin/Debug/netcoreapp1.1/callingcard.deps.json
+/Users/jonathanschroeder/Desktop/C/callingcard/bin/Debug/netcoreapp1.1/callingcard.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/callingcard/bin/Debug/netcoreapp1.1/callingcard.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/callingcard/bin/Debug/netcoreapp1.1/callingcard.dll
+/Users/jonathanschroeder/Desktop/C/callingcard/bin/Debug/netcoreapp1.1/callingcard.pdb
+/Users/jonathanschroeder/Desktop/C/callingcard/obj/Debug/netcoreapp1.1/callingcard.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/callingcard/obj/Debug/netcoreapp1.1/callingcard.dll
+/Users/jonathanschroeder/Desktop/C/callingcard/obj/Debug/netcoreapp1.1/callingcard.pdb

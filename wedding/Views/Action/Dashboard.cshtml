@@ -1,0 +1,64 @@
+@{
+    ViewData["Title"] = "Dashboard Page";
+}
+<p><a href="/logout">Log Out</a></p>
+<h4>Welcome @ViewBag.UserName! Start planning your weddings!</h4>
+
+
+<table class = "table table-striped table-boardered">
+    <thread>
+        <tr>
+            <th>Wedding</th>
+            <th>Date</th>
+            <th>Guest</th>
+            <th>Action</th>
+        </tr>
+    </thread>
+    <tbody>
+         @foreach(var wed in ViewBag.AllWeddings)
+         {
+        <tr>
+            <td><a href="showpage/@wed.WeddingId">@wed.WedderOne & @wed.WedderTwo</a></td>
+            <td>@wed.Date</td>
+            <td>@wed.Invitations.Count</td>
+
+            @if(@ViewBag.Id == @wed.UserId)
+            {
+                <form action="Delete/@wed.WeddingId" method="GET">
+                    <td><button type="submit">Delete</button></td>
+                </form>
+            }
+            else
+            {
+                bool status = false;
+                @foreach(var x in ViewBag.invite)
+                {
+                    @if(@ViewBag.Id == @x.UserId && @x.WeddingId == @wed.WeddingId)
+                   {
+                    status = true;
+                   }
+                 }
+
+                   if(status == true)
+                   {
+                       <form action="UnRSVP/@wed.WeddingId " method="GET">
+                           
+                           <td><button type="submit">UNRSVP</button></td>
+                        </form>
+                        }
+                   else
+                   {
+                       <form action="RSVP/@wed.WeddingId" method="POST">
+                           <td><button type="submit">RSVP</button></td>
+                        </form>
+                   }
+            }
+                            
+        </tr>  
+         }            
+    </tbody>  
+</table>
+
+<form action="planpage" method="Get">
+        <input type="submit" value="New Wedding" class="btn btn-info">
+</form>

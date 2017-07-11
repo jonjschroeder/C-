@@ -1,0 +1,5 @@
+<h1>Welcome to the new page</h1>
+
+@foreach(var x in @ViewBag.Users){
+    <p>@x["name"], @x["quote"] <a href="delete">Delete</a></p>
+}

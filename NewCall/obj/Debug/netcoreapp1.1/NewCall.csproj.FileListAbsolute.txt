@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/NewCall/bin/Debug/netcoreapp1.1/NewCall.deps.json
+/Users/jonathanschroeder/Desktop/C/NewCall/bin/Debug/netcoreapp1.1/NewCall.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/NewCall/bin/Debug/netcoreapp1.1/NewCall.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/NewCall/bin/Debug/netcoreapp1.1/NewCall.dll
+/Users/jonathanschroeder/Desktop/C/NewCall/bin/Debug/netcoreapp1.1/NewCall.pdb
+/Users/jonathanschroeder/Desktop/C/NewCall/obj/Debug/netcoreapp1.1/NewCall.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/NewCall/obj/Debug/netcoreapp1.1/NewCall.dll
+/Users/jonathanschroeder/Desktop/C/NewCall/obj/Debug/netcoreapp1.1/NewCall.pdb

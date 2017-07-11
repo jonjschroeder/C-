@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/humans/bin/Debug/netcoreapp1.1/humans.deps.json
+/Users/jonathanschroeder/Desktop/C/humans/bin/Debug/netcoreapp1.1/humans.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/humans/bin/Debug/netcoreapp1.1/humans.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/humans/bin/Debug/netcoreapp1.1/humans.dll
+/Users/jonathanschroeder/Desktop/C/humans/bin/Debug/netcoreapp1.1/humans.pdb
+/Users/jonathanschroeder/Desktop/C/humans/obj/Debug/netcoreapp1.1/humans.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/humans/obj/Debug/netcoreapp1.1/humans.dll
+/Users/jonathanschroeder/Desktop/C/humans/obj/Debug/netcoreapp1.1/humans.pdb

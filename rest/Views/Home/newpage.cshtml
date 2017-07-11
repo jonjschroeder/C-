@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Review Page</h1>
+
+@foreach (var x in @ViewBag.hello){
+    <p>Reviewer: @x.first_name</p>
+    <p>Restaurant Name: @x.res_name</p>
+    <p>Rating: @x.star</p>
+    <p>Date Reviewed: @x.date</p>
+}

@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/calling/bin/Debug/netcoreapp1.1/calling.deps.json
+/Users/jonathanschroeder/Desktop/C/calling/bin/Debug/netcoreapp1.1/calling.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/calling/bin/Debug/netcoreapp1.1/calling.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/calling/bin/Debug/netcoreapp1.1/calling.dll
+/Users/jonathanschroeder/Desktop/C/calling/bin/Debug/netcoreapp1.1/calling.pdb
+/Users/jonathanschroeder/Desktop/C/calling/obj/Debug/netcoreapp1.1/calling.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/calling/obj/Debug/netcoreapp1.1/calling.dll
+/Users/jonathanschroeder/Desktop/C/calling/obj/Debug/netcoreapp1.1/calling.pdb

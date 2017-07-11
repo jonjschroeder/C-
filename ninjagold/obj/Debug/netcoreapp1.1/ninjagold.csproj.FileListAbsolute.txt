@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/ninjagold/bin/Debug/netcoreapp1.1/ninjagold.deps.json
+/Users/jonathanschroeder/Desktop/C/ninjagold/bin/Debug/netcoreapp1.1/ninjagold.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/ninjagold/bin/Debug/netcoreapp1.1/ninjagold.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/ninjagold/bin/Debug/netcoreapp1.1/ninjagold.dll
+/Users/jonathanschroeder/Desktop/C/ninjagold/bin/Debug/netcoreapp1.1/ninjagold.pdb
+/Users/jonathanschroeder/Desktop/C/ninjagold/obj/Debug/netcoreapp1.1/ninjagold.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/ninjagold/obj/Debug/netcoreapp1.1/ninjagold.dll
+/Users/jonathanschroeder/Desktop/C/ninjagold/obj/Debug/netcoreapp1.1/ninjagold.pdb

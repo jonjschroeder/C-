@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<p><a href="/logout">Log Out</a>  <a href="/Dashboard">Dashboard</a></p>
+<h3>Plan Your Activity</h3>
+
+<form action="Create" method="post">
+
+<div class="input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-queen"></i></span>
+    <input id="WeddingOne" type="text" class="form-control" name="WedderOne" placeholder="Bride">
+  </div>
+
+
+  <div class="input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-king"></i></span>
+    <input id="WeddingTwo" type="text" class="form-control" name="WedderTwo" placeholder="Groom">
+  </div>
+
+  <div class="input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+    <input id="Date" type="Date" class="form-control" name="date" placeholder="Date">
+  </div>
+
+    <div class="input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-globe"></i></span>
+    <input id="Address" type="text" class="form-control" name="Address" placeholder="Address">
+  </div>
+
+        <input type="submit" value="Create" class="btn btn-success">
+
+</form>
+<div>
+    @{
+        foreach(var error in ViewBag.Errors)
+        {
+            //If there are any errors for a field...
+            if(@error.Errors.Count > 0)
+            {
+                // We show the first error for that field
+                <p>@error.Errors[0].ErrorMessage</p>
+            }
+        }
+    }
+</div>

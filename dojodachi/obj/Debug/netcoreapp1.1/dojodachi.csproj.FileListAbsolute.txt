@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.deps.json
+/Users/jonathanschroeder/Desktop/C/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.dll
+/Users/jonathanschroeder/Desktop/C/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.pdb
+/Users/jonathanschroeder/Desktop/C/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.dll
+/Users/jonathanschroeder/Desktop/C/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.pdb

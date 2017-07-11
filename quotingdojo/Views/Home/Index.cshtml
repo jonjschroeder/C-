@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Please enter in a quote.  Thanks!</h1>
+<p>Get to adding stuff</p>
+
+@foreach(var x in @ViewBag.Users){
+    <p>@x["name"], @x["quote"]</p>
+}
+<form action="add" method="post">
+    Name:<input type="text" name="name"/>
+    Quote:<input type="text" step="1" name="quote"/>
+    <button type="submit">Submit</button>
+</form>

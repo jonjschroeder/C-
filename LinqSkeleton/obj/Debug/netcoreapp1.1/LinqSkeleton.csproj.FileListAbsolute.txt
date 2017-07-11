@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/bin/Debug/netcoreapp1.1/LinqSkeleton.deps.json
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/bin/Debug/netcoreapp1.1/LinqSkeleton.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/bin/Debug/netcoreapp1.1/LinqSkeleton.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/bin/Debug/netcoreapp1.1/LinqSkeleton.dll
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/bin/Debug/netcoreapp1.1/LinqSkeleton.pdb
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/obj/Debug/netcoreapp1.1/LinqSkeleton.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/obj/Debug/netcoreapp1.1/LinqSkeleton.dll
+/Users/jonathanschroeder/Desktop/C/LinqSkeleton/obj/Debug/netcoreapp1.1/LinqSkeleton.pdb

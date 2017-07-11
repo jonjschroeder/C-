@@ -1,0 +1,8 @@
+/Users/jonathanschroeder/Desktop/C/crud/bin/Debug/netcoreapp1.1/crud.deps.json
+/Users/jonathanschroeder/Desktop/C/crud/bin/Debug/netcoreapp1.1/crud.runtimeconfig.json
+/Users/jonathanschroeder/Desktop/C/crud/bin/Debug/netcoreapp1.1/crud.runtimeconfig.dev.json
+/Users/jonathanschroeder/Desktop/C/crud/bin/Debug/netcoreapp1.1/crud.dll
+/Users/jonathanschroeder/Desktop/C/crud/bin/Debug/netcoreapp1.1/crud.pdb
+/Users/jonathanschroeder/Desktop/C/crud/obj/Debug/netcoreapp1.1/crud.AssemblyInfo.cs
+/Users/jonathanschroeder/Desktop/C/crud/obj/Debug/netcoreapp1.1/crud.dll
+/Users/jonathanschroeder/Desktop/C/crud/obj/Debug/netcoreapp1.1/crud.pdb
